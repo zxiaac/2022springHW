@@ -9,7 +9,7 @@ do
 	do
 	cat > $RUNDIR/$NAME.$CUTOFF.$DIST.in << EOF
 &control
-	calculation = 'relax',
+	calculation = 'scf',
 	prefix = '$PREFIX',
 	pseudo_dir = '$RUNDIR/pseudo',
 	verbosity = 'high'
@@ -38,7 +38,7 @@ K_POINTS (automatic)
  1 1 1 1 1 1
 EOF
 
-	$HOME/q-e/bin/pw.x < $RUNDIR/$NAME.$CUTOFF.$DIST.in > $NAME.$CUTOFF.$DIST.out
+	$HOME/q-e/bin/pw.x < $RUNDIR/$NAME.$CUTOFF.$DIST.in > $NAME.$CUTOFF.$DIST.scf.out
 	#rm -R /tmp/H_work*
 	done
 done
