@@ -17,6 +17,7 @@ cat > $RUNDIR/$NAME.$CUTOFF.in << EOF
 	celldm(1) = 32.0,
 	nat = 2,
 	ntyp = 1,
+	nbnd = 8,
 	ecutwfc = $CUTOFF
 /
 &electrons
