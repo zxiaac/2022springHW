@@ -7,7 +7,7 @@ for CUTOFF in 10 15 20 25 30
 do
 cat > $RUNDIR/$NAME.$CUTOFF.in << EOF
 &control
-	calculation = 'bands',
+	calculation = 'scf',
 	prefix = '$PREFIX',
 	pseudo_dir = '$RUNDIR/pseudo',
 	verbosity = 'high'
@@ -17,20 +17,16 @@ cat > $RUNDIR/$NAME.$CUTOFF.in << EOF
 	celldm(1) = 32.0,
 	nat = 2,
 	ntyp = 1,
-	nbnd = 2,
 	ecutwfc = $CUTOFF
 /
 &electrons
 	conv_thr = 1e-8
 /
-&ions
-	ion_dynamics='bfgs'
-/
 ATOMIC_SPECIES
  O 15.999 O_US.van
 ATOMIC_POSITIONS (angstrom)
  O 0.00 0.00 0.00
- O 1.194799 0.00 0.00
+ O 1.198458 0.00 0.00
 K_POINTS (automatic)
  1 1 1 1 1 1
 EOF

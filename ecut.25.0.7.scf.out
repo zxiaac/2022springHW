@@ -1,5 +1,5 @@
 
-     Program PWSCF v.7.0 starts on 28Feb2022 at 14: 4:42 
+     Program PWSCF v.7.0 starts on 28Feb2022 at 22:27:32 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -11,7 +11,7 @@
      http://www.quantum-espresso.org/quote
 
      Serial version
-     685 MiB available memory on the printing compute node when the environment starts
+     1243 MiB available memory on the printing compute node when the environment starts
 
      Waiting for input...
      Reading input from standard input
@@ -285,9 +285,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-           244 MiB given to the printing process from OS
+           243 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           516 MiB available memory on the node where the printing process lives
+          1073 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.00E-02,  avg # of iterations =  5.0
 
@@ -302,9 +302,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-           307 MiB given to the printing process from OS
+           306 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           391 MiB available memory on the node where the printing process lives
+           947 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.73E-03,  avg # of iterations =  1.0
 
@@ -319,9 +319,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-           321 MiB given to the printing process from OS
+           320 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           376 MiB available memory on the node where the printing process lives
+           934 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.77E-05,  avg # of iterations =  8.0
 
@@ -336,15 +336,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-           335 MiB given to the printing process from OS
+           334 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           363 MiB available memory on the node where the printing process lives
+           920 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  7.39E-07,  avg # of iterations =  5.0
 
      negative rho (up, down):  4.741E-02 0.000E+00
 
-     total cpu time spent up to now is        4.3 secs
+     total cpu time spent up to now is        4.2 secs
 
      total energy              =      -2.31258294 Ry
      estimated scf accuracy    <       0.00000025 Ry
@@ -353,9 +353,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-           349 MiB given to the printing process from OS
+           348 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           349 MiB available memory on the node where the printing process lives
+           906 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.26E-08,  avg # of iterations =  2.0
 
@@ -387,24 +387,24 @@ E      2.00  0.00 -2.00  0.00  0.00
 
      Writing all to output data dir ./.save/
 
-     init_run     :      0.73s CPU      0.78s WALL (       1 calls)
-     electrons    :      4.18s CPU      4.21s WALL (       1 calls)
+     init_run     :      0.74s CPU      0.78s WALL (       1 calls)
+     electrons    :      4.16s CPU      4.20s WALL (       1 calls)
 
      Called by init_run:
      wfcinit      :      0.06s CPU      0.07s WALL (       1 calls)
      wfcinit:atom :      0.00s CPU      0.00s WALL (       1 calls)
      wfcinit:wfcr :      0.06s CPU      0.06s WALL (       1 calls)
-     potinit      :      0.43s CPU      0.45s WALL (       1 calls)
+     potinit      :      0.44s CPU      0.45s WALL (       1 calls)
      hinit0       :      0.03s CPU      0.04s WALL (       1 calls)
 
      Called by electrons:
      c_bands      :      1.16s CPU      1.16s WALL (       5 calls)
      sum_band     :      0.50s CPU      0.50s WALL (       5 calls)
-     v_of_rho     :      2.43s CPU      2.45s WALL (       6 calls)
+     v_of_rho     :      2.45s CPU      2.46s WALL (       6 calls)
      v_h          :      0.15s CPU      0.15s WALL (       6 calls)
-     v_xc         :      2.28s CPU      2.30s WALL (       6 calls)
-     newd         :      0.19s CPU      0.19s WALL (       6 calls)
-     mix_rho      :      0.24s CPU      0.25s WALL (       5 calls)
+     v_xc         :      2.29s CPU      2.30s WALL (       6 calls)
+     newd         :      0.18s CPU      0.19s WALL (       6 calls)
+     mix_rho      :      0.23s CPU      0.24s WALL (       5 calls)
 
      Called by c_bands:
      init_us_2    :      0.01s CPU      0.02s WALL (      11 calls)
@@ -439,15 +439,15 @@ E      2.00  0.00 -2.00  0.00  0.00
 
      General routines
      calbec       :      0.01s CPU      0.01s WALL (      32 calls)
-     fft          :      1.25s CPU      1.25s WALL (      65 calls)
+     fft          :      1.24s CPU      1.25s WALL (      65 calls)
      ffts         :      0.10s CPU      0.10s WALL (       5 calls)
      fftw         :      1.10s CPU      1.10s WALL (      92 calls)
 
 
-     PWSCF        :      4.97s CPU      5.06s WALL
+     PWSCF        :      4.96s CPU      5.04s WALL
 
 
-   This run was terminated on:  14: 4:47  28Feb2022            
+   This run was terminated on:  22:27:37  28Feb2022            
 
 =------------------------------------------------------------------------------=
    JOB DONE.

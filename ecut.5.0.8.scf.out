@@ -1,5 +1,5 @@
 
-     Program PWSCF v.7.0 starts on 28Feb2022 at 14: 1: 8 
+     Program PWSCF v.7.0 starts on 28Feb2022 at 22:14:24 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -11,7 +11,7 @@
      http://www.quantum-espresso.org/quote
 
      Serial version
-     695 MiB available memory on the printing compute node when the environment starts
+     1308 MiB available memory on the printing compute node when the environment starts
 
      Waiting for input...
      Reading input from standard input
@@ -285,9 +285,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            41 MiB given to the printing process from OS
+            38 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           674 MiB available memory on the node where the printing process lives
+          1290 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.00E-02,  avg # of iterations =  5.0
 
@@ -302,9 +302,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            47 MiB given to the printing process from OS
+            44 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           661 MiB available memory on the node where the printing process lives
+          1277 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.79E-03,  avg # of iterations =  2.0
 
@@ -319,9 +319,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            48 MiB given to the printing process from OS
+            46 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           660 MiB available memory on the node where the printing process lives
+          1276 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  8.90E-05,  avg # of iterations =  7.0
 
@@ -336,9 +336,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            50 MiB given to the printing process from OS
+            47 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           659 MiB available memory on the node where the printing process lives
+          1275 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.07E-05,  avg # of iterations =  6.0
 
@@ -353,9 +353,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            51 MiB given to the printing process from OS
+            48 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           658 MiB available memory on the node where the printing process lives
+          1273 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.07E-05,  avg # of iterations =  2.0
 
@@ -370,9 +370,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            52 MiB given to the printing process from OS
+            49 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           656 MiB available memory on the node where the printing process lives
+          1272 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  3.15E-06,  avg # of iterations =  3.0
 
@@ -387,15 +387,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            53 MiB given to the printing process from OS
+            51 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           655 MiB available memory on the node where the printing process lives
+          1271 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  3.15E-06,  avg # of iterations = 12.0
 
      negative rho (up, down):  3.766E-01 0.000E+00
 
-     total cpu time spent up to now is        0.6 secs
+     total cpu time spent up to now is        0.7 secs
 
      total energy              =      -2.06728757 Ry
      estimated scf accuracy    <       0.00000385 Ry
@@ -404,9 +404,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            55 MiB given to the printing process from OS
+            52 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           654 MiB available memory on the node where the printing process lives
+          1270 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  7.0
 
@@ -421,9 +421,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            56 MiB given to the printing process from OS
+            53 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           652 MiB available memory on the node where the printing process lives
+          1268 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  6.0
 
@@ -438,9 +438,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -455,9 +455,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -472,9 +472,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  7.0
 
@@ -489,15 +489,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  7.0
 
      negative rho (up, down):  3.679E-01 0.000E+00
 
-     total cpu time spent up to now is        1.1 secs
+     total cpu time spent up to now is        1.2 secs
 
      total energy              =      -2.07037537 Ry
      estimated scf accuracy    <       0.00002709 Ry
@@ -506,9 +506,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 16.0
 
@@ -523,15 +523,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
      negative rho (up, down):  3.741E-01 0.000E+00
 
-     total cpu time spent up to now is        1.3 secs
+     total cpu time spent up to now is        1.4 secs
 
      total energy              =      -2.06781906 Ry
      estimated scf accuracy    <       0.00003113 Ry
@@ -540,9 +540,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -557,9 +557,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -574,9 +574,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -591,9 +591,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 15.0
 
@@ -608,9 +608,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  7.0
 
@@ -625,9 +625,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  2.0
 
@@ -642,9 +642,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -659,9 +659,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -676,9 +676,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -693,9 +693,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -710,9 +710,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -727,9 +727,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  2.0
 
@@ -744,9 +744,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  2.0
 
@@ -761,9 +761,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 15.0
 
@@ -778,9 +778,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
@@ -795,9 +795,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      c_bands:  1 eigenvalues not converged
      ethr =  1.92E-07,  avg # of iterations = 20.0
@@ -813,9 +813,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 10.0
 
@@ -830,9 +830,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  6.0
 
@@ -847,9 +847,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -864,9 +864,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 10.0
 
@@ -881,9 +881,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  7.0
 
@@ -898,9 +898,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations = 10.0
 
@@ -915,9 +915,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -932,9 +932,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  8.0
 
@@ -949,9 +949,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
@@ -966,9 +966,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -983,9 +983,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1000,9 +1000,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1017,9 +1017,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -1034,9 +1034,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  8.0
 
@@ -1051,9 +1051,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1068,15 +1068,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.817E-01 0.000E+00
 
-     total cpu time spent up to now is        4.0 secs
+     total cpu time spent up to now is        4.1 secs
 
      total energy              =      -2.06538363 Ry
      estimated scf accuracy    <       0.00000908 Ry
@@ -1085,9 +1085,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1102,9 +1102,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1119,9 +1119,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
@@ -1136,9 +1136,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
@@ -1153,15 +1153,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.777E-01 0.000E+00
 
-     total cpu time spent up to now is        4.4 secs
+     total cpu time spent up to now is        4.5 secs
 
      total energy              =      -2.06722482 Ry
      estimated scf accuracy    <       0.00002516 Ry
@@ -1170,9 +1170,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -1187,9 +1187,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  4.0
 
@@ -1204,9 +1204,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -1221,9 +1221,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  5.0
 
@@ -1238,15 +1238,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.764E-01 0.000E+00
 
-     total cpu time spent up to now is        4.8 secs
+     total cpu time spent up to now is        4.9 secs
 
      total energy              =      -2.06690442 Ry
      estimated scf accuracy    <       0.00003740 Ry
@@ -1255,9 +1255,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  8.0
 
@@ -1272,9 +1272,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.92E-07,  avg # of iterations =  3.0
 
@@ -1289,9 +1289,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  9.94E-08,  avg # of iterations =  4.0
 
@@ -1306,9 +1306,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  9.94E-08,  avg # of iterations =  4.0
 
@@ -1323,15 +1323,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  9.94E-08,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.775E-01 0.000E+00
 
-     total cpu time spent up to now is        5.2 secs
+     total cpu time spent up to now is        5.3 secs
 
      total energy              =      -2.06656692 Ry
      estimated scf accuracy    <       0.00000696 Ry
@@ -1340,9 +1340,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  9.94E-08,  avg # of iterations =  4.0
 
@@ -1357,9 +1357,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  9.94E-08,  avg # of iterations =  4.0
 
@@ -1374,9 +1374,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.20E-08,  avg # of iterations = 14.0
 
@@ -1391,9 +1391,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.20E-08,  avg # of iterations =  8.0
 
@@ -1408,9 +1408,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.20E-08,  avg # of iterations =  4.0
 
@@ -1425,9 +1425,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  6.20E-08,  avg # of iterations =  3.0
 
@@ -1442,15 +1442,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  4.95E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.783E-01 0.000E+00
 
-     total cpu time spent up to now is        5.8 secs
+     total cpu time spent up to now is        5.9 secs
 
      total energy              =      -2.06654211 Ry
      estimated scf accuracy    <       0.00000899 Ry
@@ -1459,9 +1459,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  4.95E-08,  avg # of iterations =  3.0
 
@@ -1476,9 +1476,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  4.95E-08,  avg # of iterations =  4.0
 
@@ -1493,9 +1493,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
@@ -1510,15 +1510,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.778E-01 0.000E+00
 
-     total cpu time spent up to now is        6.1 secs
+     total cpu time spent up to now is        6.2 secs
 
      total energy              =      -2.06670772 Ry
      estimated scf accuracy    <       0.00000255 Ry
@@ -1527,9 +1527,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
@@ -1544,9 +1544,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  3.0
 
@@ -1561,9 +1561,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  5.0
 
@@ -1578,9 +1578,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations = 14.0
 
@@ -1595,9 +1595,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
@@ -1612,15 +1612,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.777E-01 0.000E+00
 
-     total cpu time spent up to now is        6.6 secs
+     total cpu time spent up to now is        6.7 secs
 
      total energy              =      -2.06657682 Ry
      estimated scf accuracy    <       0.00000047 Ry
@@ -1629,15 +1629,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.779E-01 0.000E+00
 
-     total cpu time spent up to now is        6.7 secs
+     total cpu time spent up to now is        6.8 secs
 
      total energy              =      -2.06656093 Ry
      estimated scf accuracy    <       0.00000419 Ry
@@ -1646,9 +1646,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  4.0
 
@@ -1663,9 +1663,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.44E-08,  avg # of iterations =  5.0
 
@@ -1680,9 +1680,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  5.0
 
@@ -1697,15 +1697,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.778E-01 0.000E+00
 
-     total cpu time spent up to now is        7.0 secs
+     total cpu time spent up to now is        7.1 secs
 
      total energy              =      -2.06653464 Ry
      estimated scf accuracy    <       0.00000198 Ry
@@ -1714,15 +1714,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  5.0
 
      negative rho (up, down):  3.776E-01 0.000E+00
 
-     total cpu time spent up to now is        7.1 secs
+     total cpu time spent up to now is        7.2 secs
 
      total energy              =      -2.06663296 Ry
      estimated scf accuracy    <       0.00000097 Ry
@@ -1731,15 +1731,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.776E-01 0.000E+00
 
-     total cpu time spent up to now is        7.2 secs
+     total cpu time spent up to now is        7.3 secs
 
      total energy              =      -2.06660519 Ry
      estimated scf accuracy    <       0.00000189 Ry
@@ -1748,9 +1748,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  3.0
 
@@ -1765,15 +1765,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.02E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.778E-01 0.000E+00
 
-     total cpu time spent up to now is        7.3 secs
+     total cpu time spent up to now is        7.4 secs
 
      total energy              =      -2.06655609 Ry
      estimated scf accuracy    <       0.00000020 Ry
@@ -1782,15 +1782,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  1.01E-08,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.777E-01 0.000E+00
 
-     total cpu time spent up to now is        7.4 secs
+     total cpu time spent up to now is        7.5 secs
 
      total energy              =      -2.06658329 Ry
      estimated scf accuracy    <       0.00000012 Ry
@@ -1799,15 +1799,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.777E-01 0.000E+00
 
-     total cpu time spent up to now is        7.5 secs
+     total cpu time spent up to now is        7.6 secs
 
      total energy              =      -2.06658307 Ry
      estimated scf accuracy    <       0.00000073 Ry
@@ -1816,9 +1816,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  3.0
 
@@ -1833,15 +1833,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.778E-01 0.000E+00
 
-     total cpu time spent up to now is        7.6 secs
+     total cpu time spent up to now is        7.7 secs
 
      total energy              =      -2.06656765 Ry
      estimated scf accuracy    <       0.00000078 Ry
@@ -1850,15 +1850,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.779E-01 0.000E+00
 
-     total cpu time spent up to now is        7.7 secs
+     total cpu time spent up to now is        7.8 secs
 
      total energy              =      -2.06653912 Ry
      estimated scf accuracy    <       0.00000187 Ry
@@ -1867,15 +1867,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.779E-01 0.000E+00
 
-     total cpu time spent up to now is        7.8 secs
+     total cpu time spent up to now is        7.9 secs
 
      total energy              =      -2.06654260 Ry
      estimated scf accuracy    <       0.00000075 Ry
@@ -1884,15 +1884,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  2.0
 
      negative rho (up, down):  3.779E-01 0.000E+00
 
-     total cpu time spent up to now is        7.8 secs
+     total cpu time spent up to now is        7.9 secs
 
      total energy              =      -2.06653057 Ry
      estimated scf accuracy    <       0.00000102 Ry
@@ -1901,15 +1901,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.779E-01 0.000E+00
 
-     total cpu time spent up to now is        7.9 secs
+     total cpu time spent up to now is        8.0 secs
 
      total energy              =      -2.06652871 Ry
      estimated scf accuracy    <       0.00000013 Ry
@@ -1918,15 +1918,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  4.0
 
      negative rho (up, down):  3.780E-01 0.000E+00
 
-     total cpu time spent up to now is        8.0 secs
+     total cpu time spent up to now is        8.1 secs
 
      total energy              =      -2.06653816 Ry
      estimated scf accuracy    <       0.00000213 Ry
@@ -1935,15 +1935,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.781E-01 0.000E+00
 
-     total cpu time spent up to now is        8.1 secs
+     total cpu time spent up to now is        8.2 secs
 
      total energy              =      -2.06647740 Ry
      estimated scf accuracy    <       0.00000324 Ry
@@ -1952,9 +1952,9 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  4.0
 
@@ -1969,15 +1969,15 @@ E      2.00  0.00 -2.00  0.00  0.00
      Davidson diagonalization with overlap
 
 ---- Real-time Memory Report at c_bands before calling an iterative solver
-            57 MiB given to the printing process from OS
+            54 MiB given to the printing process from OS
              0 MiB allocation reported by mallinfo(arena+hblkhd)
-           651 MiB available memory on the node where the printing process lives
+          1267 MiB available memory on the node where the printing process lives
 ------------------
      ethr =  5.92E-09,  avg # of iterations =  3.0
 
      negative rho (up, down):  3.781E-01 0.000E+00
 
-     total cpu time spent up to now is        8.2 secs
+     total cpu time spent up to now is        8.3 secs
 
      total energy              =      -2.06647610 Ry
      estimated scf accuracy    <       0.00000096 Ry
@@ -1990,33 +1990,33 @@ E      2.00  0.00 -2.00  0.00  0.00
      Message from routine punch:
      wavefunctions written to file
 
-     init_run     :      0.08s CPU      0.08s WALL (       1 calls)
-     electrons    :      8.11s CPU      8.14s WALL (       1 calls)
+     init_run     :      0.07s CPU      0.08s WALL (       1 calls)
+     electrons    :      8.18s CPU      8.22s WALL (       1 calls)
 
      Called by init_run:
-     wfcinit      :      0.01s CPU      0.01s WALL (       1 calls)
+     wfcinit      :      0.00s CPU      0.01s WALL (       1 calls)
      wfcinit:atom :      0.00s CPU      0.00s WALL (       1 calls)
      wfcinit:wfcr :      0.00s CPU      0.00s WALL (       1 calls)
      potinit      :      0.05s CPU      0.05s WALL (       1 calls)
-     hinit0       :      0.01s CPU      0.01s WALL (       1 calls)
+     hinit0       :      0.00s CPU      0.01s WALL (       1 calls)
 
      Called by electrons:
-     c_bands      :      2.25s CPU      2.26s WALL (     100 calls)
-     sum_band     :      0.78s CPU      0.79s WALL (     100 calls)
-     v_of_rho     :      3.94s CPU      3.96s WALL (     101 calls)
+     c_bands      :      2.26s CPU      2.28s WALL (     100 calls)
+     sum_band     :      0.80s CPU      0.80s WALL (     100 calls)
+     v_of_rho     :      3.97s CPU      3.98s WALL (     101 calls)
      v_h          :      0.20s CPU      0.20s WALL (     101 calls)
-     v_xc         :      3.74s CPU      3.76s WALL (     101 calls)
+     v_xc         :      3.78s CPU      3.78s WALL (     101 calls)
      newd         :      0.25s CPU      0.25s WALL (     101 calls)
-     mix_rho      :      0.85s CPU      0.85s WALL (     100 calls)
+     mix_rho      :      0.86s CPU      0.86s WALL (     100 calls)
 
      Called by c_bands:
      init_us_2    :      0.03s CPU      0.03s WALL (     201 calls)
      init_us_2:cp :      0.03s CPU      0.03s WALL (     201 calls)
-     cegterg      :      2.23s CPU      2.24s WALL (     100 calls)
+     cegterg      :      2.24s CPU      2.26s WALL (     100 calls)
 
      Called by sum_band:
      sum_band:wei :      0.00s CPU      0.00s WALL (     100 calls)
-     sum_band:loo :      0.23s CPU      0.23s WALL (     100 calls)
+     sum_band:loo :      0.24s CPU      0.24s WALL (     100 calls)
      sum_band:buf :      0.00s CPU      0.00s WALL (     100 calls)
      sum_band:ini :      0.01s CPU      0.01s WALL (     100 calls)
      sum_band:cal :      0.00s CPU      0.00s WALL (     100 calls)
@@ -2031,27 +2031,27 @@ E      2.00  0.00 -2.00  0.00  0.00
      cegterg:over :      0.03s CPU      0.03s WALL (     504 calls)
      cegterg:upda :      0.03s CPU      0.03s WALL (     504 calls)
      cegterg:last :      0.05s CPU      0.05s WALL (     412 calls)
-     h_psi        :      2.06s CPU      2.07s WALL (     605 calls)
+     h_psi        :      2.06s CPU      2.08s WALL (     605 calls)
      s_psi        :      0.01s CPU      0.01s WALL (     605 calls)
      g_psi        :      0.01s CPU      0.01s WALL (     504 calls)
 
      Called by h_psi:
-     h_psi:calbec :      0.01s CPU      0.01s WALL (     605 calls)
-     vloc_psi     :      2.02s CPU      2.03s WALL (     605 calls)
+     h_psi:calbec :      0.02s CPU      0.02s WALL (     605 calls)
+     vloc_psi     :      2.02s CPU      2.04s WALL (     605 calls)
      add_vuspsi   :      0.01s CPU      0.01s WALL (     605 calls)
 
      General routines
      calbec       :      0.02s CPU      0.02s WALL (     705 calls)
      fft          :      1.71s CPU      1.71s WALL (    1111 calls)
      ffts         :      0.15s CPU      0.15s WALL (     100 calls)
-     fftw         :      2.07s CPU      2.08s WALL (    2126 calls)
+     fftw         :      2.08s CPU      2.10s WALL (    2126 calls)
      davcio       :      0.00s CPU      0.00s WALL (      19 calls)
 
 
-     PWSCF        :      8.21s CPU      8.25s WALL
+     PWSCF        :      8.28s CPU      8.33s WALL
 
 
-   This run was terminated on:  14: 1:16  28Feb2022            
+   This run was terminated on:  22:14:33  28Feb2022            
 
 =------------------------------------------------------------------------------=
    JOB DONE.
